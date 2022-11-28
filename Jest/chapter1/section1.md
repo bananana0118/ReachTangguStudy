@@ -32,8 +32,9 @@ TestRunner가 필요함
 
 - 테스트를 찾고, 실행하고 단언하는것
 - 추천되는 라이브러리다.
+ 
+![image](https://user-images.githubusercontent.com/28006318/204175764-98793417-9896-4dbd-b692-cdb1d2e44d21.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ab03c77-c7e3-428b-a110-08aada50313f/Untitled.png)
 
 - test할때 그 이면에 제스트가 실행중이다.
 - watch 모드는 제스트를 실행하는 방법으로 라스트 커밋이후로 변경된 파일을 찾는다.
