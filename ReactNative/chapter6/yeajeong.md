@@ -56,8 +56,9 @@ const MealDetailScreen = ({ route, navigation }) => {
 
 ```
 
--이런식으로 인자로 넘긴 mealId를 route.params로 받는다.
--중간에 screen을 사용하지 않고 컴포넌트로 소통해야 할 때가 있는데, 그럴때는
+- 이런식으로 인자로 넘긴 mealId를 route.params로 받는다.
+
+- 중간에 screen을 사용하지 않고 컴포넌트로 소통해야 할 때가 있는데, 그럴때는
 
 ```
 const navigation = useNavigation();
